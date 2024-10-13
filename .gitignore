@@ -1,0 +1,35 @@
+# Gradle files
+.gradle/
+build/
+
+# Local configuration files
+local.properties
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Android Studio files
+.cxx/
+.externalNativeBuild/
+captures/
+
+# macOS files
+.DS_Store
+
+# Log files
+*.log
+
+# Kotlin specific
+*.kotlin_metadata
+
+# Generated files
+*.apk
+*.aar
+
+# Dependency directories
+**/node_modules/
+
+# Others
+*.tmp
+*.temp
